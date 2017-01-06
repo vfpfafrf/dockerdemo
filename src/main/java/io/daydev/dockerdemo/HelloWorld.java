@@ -1,0 +1,10 @@
+package io.daydev.dockerdemo;
+
+/**
+ * Created by dmitry on 06.01.17.
+ */
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
